@@ -1,5 +1,5 @@
-09:58:03.392 [main] INFO  stepdefinitions.addtocartstepDefinitions - Product has been successfully added to cart
-09:58:08.352 [main] INFO  stepdefinitions.cartstepdefinitions - Cart page has been verified
-09:58:13.372 [main] INFO  stepdefinitions.customerstoriesStepDefinitions - Customer Services page is validated
-09:58:22.681 [main] INFO  stepdefinitions.trackstepdefinitions - Track page has been validated
-09:58:31.760 [main] INFO  stepdefinitions.subscriptionstepdefinitions - Subscription age has been validated successfully
+19:25:10.143 [main] INFO  stepdefinitions.addtocartstepDefinitions - Product has been successfully added to cart
+19:25:21.117 [main] INFO  stepdefinitions.cartstepdefinitions - Cart page has been verified
+19:25:27.509 [main] INFO  stepdefinitions.customerstoriesStepDefinitions - Customer Services page is validated
+19:25:35.010 [main] INFO  stepdefinitions.trackstepdefinitions - Track page has been validated
+19:25:46.032 [main] INFO  stepdefinitions.subscriptionstepdefinitions - Subscription age has been validated successfully

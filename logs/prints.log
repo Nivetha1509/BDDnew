@@ -1,5 +1,5 @@
-09:58:59.100 [main] INFO  stepdefinitions.signupstepdefinitions - Login page has been successfully automated
-09:59:04.796 [main] INFO  stepdefinitions.qapagestepdefinitions - QA page has been successfully validated
-09:59:19.845 [main] INFO  stepdefinitions.loginpagestepdefinitions - Login page is automated
-09:59:29.651 [main] INFO  stepdefinitions.homesearchpagestepdefinitions - Search page is validated
-09:59:39.399 [main] INFO  stepdefinitions.giftcardstepdefinition - Gift card page is validated
+19:26:12.459 [main] INFO  stepdefinitions.signupstepdefinitions - Login page has been successfully automated
+19:26:19.049 [main] INFO  stepdefinitions.qapagestepdefinitions - QA page has been successfully validated
+19:26:35.950 [main] INFO  stepdefinitions.loginpagestepdefinitions - Login page is automated
+19:26:47.424 [main] INFO  stepdefinitions.homesearchpagestepdefinitions - Search page is validated
+19:26:57.237 [main] INFO  stepdefinitions.giftcardstepdefinition - Gift card page is validated

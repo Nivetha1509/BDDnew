@@ -37,7 +37,7 @@ public class homesearchpagestepdefinitions {
 
 	    @Then("^(.+) is validated$")
 	    public void is_validated(String product) throws Throwable {
-	    	ReusableMethods.TakeScreenShot(driver, "Gift Card");
+	    	ReusableMethods.TakeScreenShot(driver, "Homepage search");
 	    	homepagesearchpageobject.verify(driver, product, log);
 	    	log.info("Search page is validated");
 	    	extentTest.pass("Validation of search page passed");
