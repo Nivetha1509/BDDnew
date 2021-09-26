@@ -1,0 +1,5 @@
+09:58:03.392 [main] INFO  stepdefinitions.addtocartstepDefinitions - Product has been successfully added to cart
+09:58:08.352 [main] INFO  stepdefinitions.cartstepdefinitions - Cart page has been verified
+09:58:13.372 [main] INFO  stepdefinitions.customerstoriesStepDefinitions - Customer Services page is validated
+09:58:22.681 [main] INFO  stepdefinitions.trackstepdefinitions - Track page has been validated
+09:58:31.760 [main] INFO  stepdefinitions.subscriptionstepdefinitions - Subscription age has been validated successfully
